@@ -54,3 +54,8 @@ console.log('updated shoe count:', me.shoeCount);
 */
 me.favoriteColor = 'black';
 console.log(me);
+
+console.log('test');
+console.log('test');
+console.log('test');
+console.log('test');
